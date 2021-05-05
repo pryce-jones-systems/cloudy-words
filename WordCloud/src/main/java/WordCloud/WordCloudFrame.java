@@ -315,7 +315,7 @@ public class WordCloudFrame {
 		
 		// Copyright notice
 		copyrightLabel = new JLabel();
-		copyrightLabel.setText("<html><div style='text-align: center;'>Cloudy Words is &copy; Copyright Pryce-Jones Systems 2020. All rights reserved.</div></html>");
+		copyrightLabel.setText("<html><div style='text-align: center;'>Cloudy Words is &copy; Copyright Pryce-Jones Systems 2021. Released under GNU GPL 3.0.</div></html>");
 		
 		copyrightPanel = new JPanel();
 		copyrightPanel.setLayout(new BorderLayout());
